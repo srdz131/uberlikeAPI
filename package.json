@@ -1,13 +1,13 @@
 {
   "name": "uberlike",
   "version": "1.0.0",
-  "description": "",
+  "description": "API that search for drivers in specified radius",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "NODE_ENV=test mocha --recursive"
   },
-  "author": "",
+  "author": "Srdjan Hrvacanin",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",
